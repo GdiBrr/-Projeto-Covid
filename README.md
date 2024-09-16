@@ -41,6 +41,3 @@ SQLite : usado para operações de banco de dados para armazenar e recuperar dad
 JSON : Usado para lidar com formatos de dados JSON, que podem ser úteis para configuração ou intercâmbio de dados.
 
 Para rodar o codigo é necessario baixar todos os arquivos disponibilizados pelo nosso grupo.
-
-Link da apresentação:
-https://liveestacio-my.sharepoint.com/:v:/g/personal/202208700462_alunos_unimetrocamp_edu_br/EdYx0YRc4CFCpOARbxeypNgBV8bLf_TqFyDIjrrVo78X2Q?e=aYt8Ya&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
